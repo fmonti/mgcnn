@@ -18,5 +18,5 @@ MGCNN is a Multi-Graph CNN able to operator on signals defined over multiple gra
 
 ## Useful links
 
-<img src="pic/home100.jpg" width="15" height="15" style="max-width:100%;"> <a href="http://inf.usi.ch/phd/monti">inf.usi.ch/phd/monti</a><br>
-<img src="pic/web.png" width="15" height="15" style="max-width:100%;"> <a href="http://geometricdeeplearning.com">geometricdeeplearning.com</a>
+<img src="pic/home100.jpg" width="20" height="20" style="max-width:100%;"> <a href="http://inf.usi.ch/phd/monti">inf.usi.ch/phd/monti</a><br>
+<img src="pic/web.png" width="20" height="20" style="max-width:100%;"> <a href="http://geometricdeeplearning.com">geometricdeeplearning.com</a>
