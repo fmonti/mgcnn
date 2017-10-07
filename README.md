@@ -14,4 +14,4 @@ Every single folder is divided in 5 different subfolders, representing the 5 dif
 
 ## When shall I use this method?
 
-MGCNN is a Multi-Graph CNN able to operator on signals defined on multiple graphs. In the paper we exploited this solution for solving the recommendation problem. However, the architecture is general and can be used for any multi-graph dimensional signal.
+MGCNN is a Multi-Graph CNN able to operator on signals defined over multiple graphs. In the paper we exploited this solution for solving the recommendation problem. However, the architecture is general and can be used for any multi-graph dimensional signal.
