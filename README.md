@@ -12,7 +12,7 @@ The repository is organized in two main folders: Notebooks and Data. Notebooks c
 
 Every single folder is divided in 5 different subfolders, representing the 5 different datasets we used in our experiments: Movielens 100K, Douban, Flixster, Yahoo Music and our Synthetic Dataset. 
 
-## When shall I use this method?
+## When shall I use MGCNN?
 
 MGCNN is a Multi-Graph CNN able to operator on signals defined over multiple graphs. In the paper we exploited this solution for solving the recommendation problem. However, the architecture is general and can be used for any multi-graph dimensional signal.
 
