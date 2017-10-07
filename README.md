@@ -8,7 +8,7 @@ https://arxiv.org/abs/1704.06803
 
 ## Repository Structure 
 
-The repository is organized in two main folders: Notebooks and Datasets. Notebooks contains the python scripts we exploited for realizing the experiments depicted in the paper. Datasets, the data we used.
+The repository is organized in two main folders: Notebooks and Data. Notebooks contains the python scripts we exploited for realizing the experiments depicted in the paper. Data, the datasets we used.
 
 Every single folder is divided in 5 different subfolders, representing the 5 different datasets we used in our experiments: Movielens 100K, Douban, Flixster, Yahoo Music and our Synthetic Dataset. 
 
